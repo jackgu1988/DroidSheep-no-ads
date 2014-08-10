@@ -1,0 +1,9 @@
+.settings
+.classpath
+.project
+bin/
+gen/
+*.dex
+*.apk
+*.ap_
+*.class
